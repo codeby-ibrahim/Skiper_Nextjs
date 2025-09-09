@@ -1,11 +1,13 @@
-import React from 'react'
+import React from 'react';
+import Textrollnavigation from '../components/textrollnavigation';
 
-function page() {
+function Page() {
   return (
     <div>
-      <h1>hallo every One</h1>
+      <h1>Hello Everyone</h1>
+      <Textrollnavigation> saihdasjf <Textrollnavigation />
     </div>
-  )
+  );
 }
 
-export default page
+export default Page;
