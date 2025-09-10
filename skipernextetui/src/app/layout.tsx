@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { Skiper4 } from "@/components/Ui/Skiper-ui/Skiper4";
+import { Skiper4 } from "@/components/ui/skiper-ui/Skiper4";
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
