@@ -1,11 +1,11 @@
 import React from 'react';
-import Textrollnavigation from '../components/textrollnavigation';
+import { Themetogglebuttons } from '@/components/ui/themetogglebuttons';
 
 function Page() {
   return (
     <div>
       <h1>Hello Everyone</h1>
-      <Textrollnavigation> saihdasjf <Textrollnavigation />
+      <Themetogglebuttons>jhhlkfas</Themetogglebuttons>
     </div>
   );
 }
